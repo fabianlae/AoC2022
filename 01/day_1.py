@@ -1,5 +1,3 @@
-import numpy as np
-
 # open file
 my_file = open('input.txt', 'r')
 # reading the file
